@@ -1,19 +1,34 @@
 <h1 align="center">Hi 👋, I'm Usman Ahmed🧑‍🎓</h1>
 <h3>I am a Skilled and Self Learner React developer specializing in the Full Stack Blockchain and MERN stack, proficient in crafting dynamic and efficient web applications and having 3+ years of development exprience.</h3>
 
-- 🔭 I’m currently working on **Corporate product**
+### 🔭 I’m currently working on
+Building innovative Web 3.0 and Web 2.0 applications, smart contracts, and blockchain-based solutions that drive digital transformation.
 
-- 🌱 I’m currently learning **DevOps and New Technologies of Blockchain**
+### 👯 I’m looking to collaborate on
+Exciting Web 3.0 and 2.0 projects that leverage modern technologies to solve complex problems and create impactful digital experiences.
 
-- 👯 I’m looking to collaborate on **Open source projects**
+### 🤝 I’m looking for help with
+Expanding my network with professionals and businesses looking to grow their digital footprint with cutting-edge web and blockchain solutions.
 
-- 👨‍💻 All of my projects are available at [This github profile](This github profile)
+### 🌱 I’m currently learning
+Advanced blockchain security, optimizing DeFi protocols, and exploring new frameworks and tools to enhance Dapp development.
 
-- 💬 Ask me about **Next | Nest | React | Node | Docker | DeFi Dapps | Web3.js | Ether.js | Solidity | Solana | Rust | Hardhat | Truffle**
+### 💬 Ask me about
+- Full Stack Development (MERN, Next.js, NestJS)
+- Smart Contracts and Dapp Development (Solidity, Rust, Hardhat, Truffle)
+- Blockchain Technologies (Ethereum, Solana, Web3.js, Ether.js)
+- DevOps and Deployment (Docker, CI/CD)
 
-- 📫 How to reach me **usmanahmedkharal@gmail.com**
+### ⚡ Fun fact
+I’ve written hundreds of smart contracts and contributed to dozens of tech startup apps, from SaaS platforms to DeFi protocols!
 
-- ⚡ Fun fact **I don't know what i am doing😅**
+---
+
+🚀 If you’re looking to elevate your project or business with Web 3.0 and 2.0 technologies, feel free to reach out! Let’s build the future together.
+
+📧 **Contact me**: [usmanahmedkharal@gmail.com](mailto:usmanahmedkharal@gmail.com)  
+🌐 **Portfolio**: [usmanahmedgoray.vercel.app](https://usmanahmedgoray.vercel.app)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usmanahmedgoray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usmanahmedgoray) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/usmanahmedgoray) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/usmanahmedgoray) 
