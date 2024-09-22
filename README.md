@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Usman Ahmed🧑‍🎓</h1>
-<h3>I am a Skilled and Self Learner React developer specializing in the MERN stack, proficient in crafting dynamic and efficient web applications.</h3>
+<h3>I am a Skilled and Self Learner React developer specializing in the Full Stack Blockchain and MERN stack, proficient in crafting dynamic and efficient web applications and having 3+ years of development exprience.</h3>
 
 - 🔭 I’m currently working on **Corporate product**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **DevOps and New Technologies of Blockchain**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [This github profile](This github profile)
 
-- 💬 Ask me about **Next | Nest | React | Node | Docker**
+- 💬 Ask me about **Next | Nest | React | Node | Docker | DeFi Dapps | Web3.js | Ether.js | Solidity | Solana | Rust | Hardhat | Truffle**
 
 - 📫 How to reach me **usmanahmedkharal@gmail.com**
 
