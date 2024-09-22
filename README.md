@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Ahmed🧑‍🎓</h1>
-<h3>I am a Skilled and Self Learner React developer specializing in the Full Stack Blockchain and MERN stack, proficient in crafting dynamic and efficient web applications and having 3+ years of development exprience.</h3>
+<h3>I am a Skilled and Self Learner software Engineer specializing in the Full Stack Blockchain and MERN stack, proficient in crafting dynamic and efficient web applications and having 3+ years of development exprience. Graduate in Computer Science with good grade A and got 3.46 cgpa out 4.0 in student life. </h3>
 
 ### 🔭 I’m currently working on
 Building innovative Web 3.0 and Web 2.0 applications, smart contracts, and blockchain-based solutions that drive digital transformation.
